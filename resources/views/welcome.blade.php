@@ -37,7 +37,7 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/85759615" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-    <title>Kostenlos in Deutschland, kleidung, elektronik, autos  | Develn</title>
+    <title> Kostenlos in Deutschland, kleidung, elektronik, autos  | Develn</title>
   <meta name="description" content="Dies ist ein neues einzigartiges Portal für die Veröffentlichung von Anzeigen, auf dem Sie ganz einfach Produkte kaufen oder verkaufen können. Jetzt ist es ganz einfach, eine Anzeige zu platzieren. Es dauert nur ein paar Minuten. Viel Spaß beim Einkaufen und erfolgreiches Verkaufen in Deutschland!">
 </head>
 <body>
